@@ -14,7 +14,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/multimedia-journal-app.git
+git clone https://github.com/vedant7356/multimediajournalapp.git
 Open the project in Android Studio.
 
 Build and run the app on an Android device or emulator.
