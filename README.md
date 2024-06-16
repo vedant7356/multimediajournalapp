@@ -1,4 +1,6 @@
 Multimedia Journal App 📸🎥🎙️
+
+
 Welcome to the Multimedia Journal App repository! This static Android application demonstrates various multimedia functionalities in Android, including audio recording, photo capturing, and video recording.
 
 Features
