@@ -35,6 +35,10 @@ Technologies Used:
 
 ![WhatsApp Image 2024-06-17 at 3 52 55 AM](https://github.com/vedant7356/multimediajournalapp/assets/52303673/990bea52-a958-440a-971f-84b29c261791)
 
+
+https://github.com/vedant7356/multimediajournalapp/assets/52303673/aec51eb2-2a16-4e84-b4fa-e67d5fc8d945
+
+
 Contributing
 Feel free to submit issues and enhancement requests. Contributions are welcome! Fork the repository and create a pull request with your changes.
 
