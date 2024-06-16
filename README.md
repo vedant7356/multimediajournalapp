@@ -33,6 +33,8 @@ Technologies Used:
 3. Camera API
 5. MediaPlayer
 
+![WhatsApp Image 2024-06-17 at 3 52 55 AM](https://github.com/vedant7356/multimediajournalapp/assets/52303673/990bea52-a958-440a-971f-84b29c261791)
+
 Contributing
 Feel free to submit issues and enhancement requests. Contributions are welcome! Fork the repository and create a pull request with your changes.
 
