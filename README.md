@@ -40,5 +40,7 @@ Contact
 For any questions or feedback, please reach out:
 
 Email: vedantprabhu32@gmail.com
-LinkedIn: https://www.linkedin.com/in/vedantprabhu/ 
+
+LinkedIn: https://www.linkedin.com/in/vedantprabhu/
+
 GitHub: https://github.com/vedant7356 
