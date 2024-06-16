@@ -25,12 +25,13 @@ Capture Photo: Click the "Capture Photo" button to open the camera and take a ph
 Record Video: Click the "Record Video" button to open the camera and record a video.
 View Entries: Recorded media entries are displayed in a list with icons and timestamps. Click an entry to play audio, view photos, or play videos.
 
-Technologies Used
-Android Studio
-Java
-MediaRecorder
-Camera API
-MediaPlayer
+Technologies Used:
+
+1. Android Studio
+2. Java
+3. MediaRecorder
+3. Camera API
+5. MediaPlayer
 
 Contributing
 Feel free to submit issues and enhancement requests. Contributions are welcome! Fork the repository and create a pull request with your changes.
